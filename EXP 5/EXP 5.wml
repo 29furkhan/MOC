@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.wapforum.org/DTD/wml_1.1.xml">
+
+<wml>
+<card title="Formatting"> 
+<p>
+ 
+
+<em>An old man lived in the village</em>. <strong>He was one of the most </strong>unfortunate people in the world. The whole village was tired of him; he was always gloomy, he constantly complained and was always in a bad mood.
+
+<b>The longer </b>he lived, <i>the more </i>bile he was <u>becoming and </u>the more poisonous were his words. People avoided him, because his misfortune became contagious. It was even unnatural and insulting to be happy next to him.
+
+<big>He created</big> the feeling <small>of unhappiness in </small>others
+<br>
+<br>
+<pre> Following Tags are used</pre>
+<em>1.em</em><br/>
+ <strong>2.Strong</strong><br/>
+ <b>3. Bold(b) </b><br/>
+ <i>4. Italic(i)</i><br/>
+ <u>5. Underlined(u)</u><br/>
+ <big>6. Big(big)</big><br/>
+ <small>7. Small text</small>
+
+</p>
+</card>
+</wml>

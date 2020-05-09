@@ -1,0 +1,19 @@
+<wml>
+  <card id="card1" title="prompt() Example">
+    <p>
+      ENTER VALUE OF A:
+      <br>
+      <input name="A" size="12" />
+      <br><br>
+
+      ENTER VALUE OF B:
+      <br>
+      <input name="B" size="12" />
+      <br><br>
+
+      <a href="index.wmls#add($(A),$(B))">Click Here To Execute Script</a><br/>
+      $(add)
+    </p>
+  </card>
+
+</wml>

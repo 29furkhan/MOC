@@ -1,0 +1,18 @@
+<wml>
+  <card id="card1" title="Image in WML">
+    <p>
+      <img src="thor.jfif" align="center" alt="Smile" height="200" width="200" /><br/>
+      <br>
+      <br>
+      <big>HE IS GOD OF THUNDER.</big>
+    </p>
+
+    <p>
+      <img src="iron.jpg" alt="Smile" height="200" width="200" /><br/>
+      <br>
+      <br>
+      <big>HE IS GOD OF AVENGERS.</big>
+    </p>
+
+  </card>
+</wml>

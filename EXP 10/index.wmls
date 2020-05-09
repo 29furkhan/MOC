@@ -1,0 +1,5 @@
+extern function add(A,B)
+{
+    WMLBrowser.setVar("add"," Concatenation: " + A+B);
+    WMLBrowser.refresh();
+}

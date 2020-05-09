@@ -1,0 +1,38 @@
+<wml>
+
+<card title="Selectable List">
+<p> Select Your Class :
+ <select>
+  <option value="BECSEII">BECSEII</option>
+  <option value="BECSEI">BECSEI</option>
+ </select>
+ 
+ <br><br>
+ First Name:<br>
+ <input name="name" size="12"/>
+ 
+ <br>
+ <br>
+ Age : <br>
+ <input name="age" size="12" format="*N"/>
+ 
+ <br>
+ <br>
+ Roll :<br>
+ <input name="roll" size="12" format="*N"/> 
+
+<anchor>
+      <go method="get" href="process.php">
+          <postfield name="name" value="$(name)"/>
+          <postfield name="age" value="$(age)"/>
+          <postfield name="roll" value="$(roll)"/>
+      </go>
+      <br><br>
+      Submit Data
+</anchor>
+
+
+</p>
+</card>
+
+</wml>

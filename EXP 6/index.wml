@@ -1,0 +1,33 @@
+<wml>
+<template>
+    <do type="accept" label="Pick">
+        <prev/>
+    </do>
+</template>
+<card id="card1">
+
+    <do type="accept" label="Black">
+        <go href="#card2"/>
+    </do>
+    <do type="options" label="White">
+        <go href="#card3"/>
+    </do>
+    <p>
+    Pick a color:
+    </p>
+</card>
+<card id="card2">
+
+   <p>
+    You picked black.
+   </p>
+</card>
+<card id="card3">
+
+   <p>
+    You picked white.
+   </p>
+</card>
+
+
+</wml>

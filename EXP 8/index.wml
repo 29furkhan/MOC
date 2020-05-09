@@ -1,0 +1,57 @@
+<wml>
+
+<card title="WML Tables">
+<p>
+<table columns="3" align="LCR">
+	<tr>
+	  <td>NAME</td>
+	  <td>CLASS</td>
+	  <td>ROLL</td>
+	</tr>
+
+	<tr>
+	  <td>FURKHAN MUJIB SHAIKH</td>
+	  <td>BECSEII</td>
+	  <td>63</td>
+	</tr>
+
+	<tr>
+	  <td>PRASHANT MANOJ PHULARI</td>
+	  <td>BECSEII</td>
+	  <td>51</td>
+	</tr>
+
+    <tr>
+	  <td>SANTOSH VINAYAK SURYAWANSHI</td>
+	  <td>BECSEII</td>
+	  <td>71</td>
+	</tr>
+
+    <tr>
+	  <td>MAYURESH GAJANAN POPHALE</td>
+	  <td>BECSEII</td>
+	  <td>52</td>
+	</tr>
+
+    <tr>
+	  <td>ANUJA TEHRA</td>
+	  <td>BECSEII</td>
+	  <td>72</td>
+	</tr>
+
+    <tr>
+	  <td>RUPALI BHANGE</td>
+	  <td>BECSEII</td>
+	  <td>05</td>
+	</tr>
+
+    <tr>
+	  <td>PRIYANKA JADHAV</td>
+	  <td>BECSEII</td>
+	  <td>79</td>
+	</tr>
+</table>
+</p>
+</card>
+
+</wml>
